@@ -1,11 +1,11 @@
-## Finetuning Segment Anything Model
+# Finetuning Segment Anything Model
 
-### Project description
+## Project description
 The intention of this project to provide a end-to-end training and inference script for Segment Anything Model. Contributers to this project is welcomed. More Details on the Project Page.
 
 [Project Page](https://github.com/aninda-ghosh/SAM-FineTuning) | [Original Paper](https://ai.meta.com/research/publications/segment-anything/) | [1 Billion Dataset](https://ai.meta.com/datasets/segment-anything-downloads/)
 
-### Folder Structure 
+## Folder Structure 
 ```
 ├── config
 │   └── defaults.py         - here's the default config file. 
@@ -29,7 +29,7 @@ The intention of this project to provide a end-to-end training and inference scr
 ```
 
 
-### Loss Functions
+## Loss Functions
 
 ```python
 class FocalLoss(nn.Module):

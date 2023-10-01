@@ -1,5 +1,7 @@
 # Portfolio
 
+[**Home**](index.md) | [**Projects**](projects.md) | [**Publications**](publication.md) | [**Work Experience**](experience.md) | [**About Me**](./index.md#about-me)
+
 ## About Me
 
 Forging a path of continuous growth and achievement, my academic journey began with a commitment to excellence that defined my school years. This pursuit of knowledge naturally led me to the captivating realm of `Embedded Systems Design`, where my dedication earned me a coveted position at the indigenous startup `Distronix`, located in Kolkata, India.
@@ -12,21 +14,4 @@ Recognizing the need for relentless self-improvement, I embarked on a journey `b
 
 Standing at this juncture, I am poised to reenter the industry with renewed vigor. Armed with an evolved skill set that seamlessly integrates my `prowess in Embedded System Design with the intricate intricacies of Machine Learning Architectures`, I am poised to make a lasting impact again. The comprehensive experience I gained in `architecting complex Deep Learning Models` during my academic pursuits further solidifies my dedication to pushing the boundaries of technological advancement.
 
-As new horizons beckon, I am ready to embrace novel challenges, armed with enhanced knowledge and a perspective that seamlessly bridges two dynamic domains. Join me in shaping the future of technology as we venture into this exciting phase together. #EmbeddedSystems #MachineLearning #Innovation
-
-## Projects
-
-### Machine Learning 
-
-- [RGB-Event-UDA](/projects/machine_learning_ai/RGB-Event-UDA.md)
-- [SAM-Finetuning](/projects/machine_learning_ai/SAM-Fine-Tuning.md)
-- [MaskRCNN-Finetuning](/projects/machine_learning_ai/MASKRCNN-Fine-Tuning.md)
-- [Vision-X](/projects/machine_learning_ai/)
-- [CARVANA-Dataset](https://github.com/aninda-ghosh/apg-carvana-dataset)
-
-### Embedded Systems
-
-- [Project 2 Title](/pdf/sample_presentation.pdf)<img src="images/dummy_thumbnail.jpg?raw=true"/>
-- [Project 3 Title](http://example.com/) <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+`#EmbeddedSystems #MachineLearning #DeepLearning #AI`

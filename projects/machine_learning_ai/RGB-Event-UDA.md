@@ -1,13 +1,13 @@
-## Bridging the Gap between Events and Frames through Unsupervised Domain Adaptation
+# Bridging the Gap between Events and Frames through Unsupervised Domain Adaptation
 
-### Project description
+## Project description
 This project was initially created by the UZG Perception Group for leveraging the labelled dataset in RGB space to be used for the event domain datasets.
 
 We modified the codebase to use the `ResNext50` based bottleneck blocks to make the training faster and improved the accuracy further for the classification task on N-Caltech101 Dataset.
 
 [Presentation](/pdf/PIR%20Presentation.pdf) | [Project Page](https://github.com/aninda-ghosh/RGB-Event-UDA)
 
-### Model Creation Code
+## Model Creation Code
 
 Attributing to lesser depth to trainable parameters in ResNext models, it resulted into   
 
