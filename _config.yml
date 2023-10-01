@@ -1,9 +1,13 @@
 title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/profile_pic.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
+  M.S. Robotics and Autonomous Systems (Artificial Intelligence)
+  <br>
+  Graduate Student @ Arizona State University
+  <br>
+  (+1) 623 283 8611
+  <br>
+  ghosh.private@gmail.com 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
