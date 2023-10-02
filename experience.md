@@ -1,6 +1,6 @@
 # Work Experience
 
-[**Home**](index.md) | [**Resume**](/pdf/Aninda%20Ghosh-Resume-AI.pdf) | [**Work Experience**](experience.md) | [**Projects**](projects.md) | [**Publications**](publication.md)
+[**Home**](index.md) | [**Work Experience**](experience.md) | [**Projects**](projects.md) | [**Publications**](publication.md)
 
 ## Graduate Research Assistant 
 <img src="images/ASU-Logo-700x394.png" style="float:center; width:120px; height:70px"/>
@@ -11,9 +11,8 @@ This work involves extending the work of `Field Boundary Delineation` to create 
 
 The research effort is funded by `"NASA (Harvest)"` for developing benchmark datasets & evaluation metrics in a collaboration with `"MLCommons"`.
 
-```
-Datasets · Machine Learning · Deep Learning · Artificial Intelligence (AI) · Research and Development (R&D) · Python (Programming Language) · OpenCV · Computer Vision
-```
+> Datasets · Machine Learning · Deep Learning · Artificial Intelligence (AI) · Research and Development (R&D) · Python (Programming Language) · OpenCV · Computer Vision
+
 
 ## Graduate Student Assistant
 <img src="images/ASU-Logo-700x394.png" style="float:center; width:120px; height:70px"/>
@@ -26,9 +25,8 @@ I was fortunate to work in satellite imagery, where the part of AI is creeping i
 2. Created a unified data format to deal with different types of data sources like `Google Earth Engine` and other publicly available sources.
 3. Created an end-to-end DeepLearning pipeline for `CNN-guided SAM architecture`.
 
-```
-PyTorch · Machine Learning · Deep Learning · Artificial Intelligence (AI) · Research and Development (R&D) · Python (Programming Language) · OpenCV · Computer Vision · Python
-```
+> PyTorch · Machine Learning · Deep Learning · Artificial Intelligence (AI) · Research and Development (R&D) · Python (Programming Language) · OpenCV · Computer Vision · Python
+
 
 ## Machine Learning Researcher (Fractional CTO)
 <img src="images/Altor Smart Helmet.png" style="float:center; width:150px; height:50px"/>
@@ -41,9 +39,9 @@ Worked towards creating a harmonized process flow with Design, Develop, and Prod
 2. I led the Embedded Systems Team to develop Smart Helmet embedded software according to MISRA-C guidelines.
 3. Working with the Co-Founders to head the tech team while providing insights for future directions. Leading a team of 10+ people working in the Software, Embedded, and Hardware team.
 
-```
-Analytical Skills · Project Management · Software Development · Technical Leadership · Cross-functional Team Leadership · Business Decision Making · Strategic Planning · Technology Integration · Leadership · Amazon Web Services (AWS)
-```
+
+> Analytical Skills · Project Management · Software Development · Technical Leadership · Cross-functional Team Leadership · Business Decision Making · Strategic Planning · Technology Integration · Leadership · Amazon Web Services (AWS) · Machine Learning · Deep Learning
+
 
 ## Senior Application Engineer
 <img src="images/lnt_ts.jpg" style="float:center; width:190px; height:50px"/>
@@ -58,9 +56,8 @@ I developed a data analysis pipeline with Kafka, AWS Glue, and AWS Athena to aut
 2. After finishing my first project, Statuscope, I was moved to a new project within a few days to facilitate a new team on cloud deployments in Kubernetes.
 3. There, I Improved the pod deployment by automating the process using helm charts, thus improving the CICD pipeline.
 
-```
-Analytical Skills · Software Development · Technology Integration · SQL · Cloud Computing · Kubernetes · Docker · Helm Charts · Python (Programming Language) · Internet of Things (IoT) · Python · Amazon Web Services (AWS) · AWS IoT
-```
+
+. Analytical Skills · Software Development · Technology Integration · SQL · Cloud Computing · Kubernetes · Docker · Helm Charts · Python (Programming Language) · Internet of Things (IoT) · Python · Amazon Web Services (AWS) · AWS IoT
 
 ## Senior Research And Development Engineer
 <img src="images/Distronix.png" style="float:center; width:130px; height:50px"/>
@@ -74,6 +71,4 @@ Served as a critical member of Distronix, a Kolkata-based Technology Startup sin
 3. Expedited the development timeline by providing research insights on the microcontrollers and their development environment.
 4. Ported open-source Pub-Sub stack to a custom RTOS for efficient data transmission over Kafka stream.
 
-```
-Joint Test Action Group (JTAG) · Embedded C · C++ · Analytical Skills · Software Development · Technical Leadership · Technology Integration · Embedded Software Programming · Embedded Systems · Bluetooth Low Energy Solutions · Python (Programming Language) · Internet of Things (IoT) · Real-Time Operating Systems (RTOS) · Python · Amazon Web Services (AWS) · AWS IoT
-```
+> Joint Test Action Group (JTAG) · Embedded C · C++ · Analytical Skills · Software Development · Technical Leadership · Technology Integration · Embedded Software Programming · Embedded Systems · Bluetooth Low Energy Solutions · Python (Programming Language) · Internet of Things (IoT) · Real-Time Operating Systems (RTOS) · Python · Amazon Web Services (AWS) · AWS IoT

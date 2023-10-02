@@ -1,6 +1,6 @@
 # Portfolio
 
-[**Home**](index.md) | [**Resume**](/pdf/Aninda%20Ghosh-Resume-AI.pdf) | [**Work Experience**](experience.md) | [**Projects**](projects.md) | [**Publications**](publication.md) | [**About Me**](index.md#about-me)
+[**Home**](index.md) | [**Work Experience**](experience.md) | [**Projects**](projects.md) | [**Publications**](publication.md)
 
 ## About Me
 
@@ -15,3 +15,6 @@ Recognizing the need for relentless self-improvement, I embarked on a journey `b
 Standing at this juncture, I am poised to reenter the industry with renewed vigor. Armed with an evolved skill set that seamlessly integrates my `prowess in Embedded System Design with the intricate intricacies of Machine Learning Architectures`, I am poised to make a lasting impact again. The comprehensive experience I gained in `architecting complex Deep Learning Models` during my academic pursuits further solidifies my dedication to pushing the boundaries of technological advancement.
 
 `#EmbeddedSystems #MachineLearning #DeepLearning #AI`
+
+
+[**Download Resume Here !!**](/pdf/Aninda%20Ghosh-Resume-AI.pdf)
