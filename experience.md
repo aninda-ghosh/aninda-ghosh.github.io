@@ -39,7 +39,6 @@ Worked towards creating a harmonized process flow with Design, Develop, and Prod
 2. I led the Embedded Systems Team to develop Smart Helmet embedded software according to MISRA-C guidelines.
 3. Working with the Co-Founders to head the tech team while providing insights for future directions. Leading a team of 10+ people working in the Software, Embedded, and Hardware team.
 
-
 > Analytical Skills · Project Management · Software Development · Technical Leadership · Cross-functional Team Leadership · Business Decision Making · Strategic Planning · Technology Integration · Leadership · Amazon Web Services (AWS) · Machine Learning · Deep Learning
 
 
@@ -57,7 +56,7 @@ I developed a data analysis pipeline with Kafka, AWS Glue, and AWS Athena to aut
 3. There, I Improved the pod deployment by automating the process using helm charts, thus improving the CICD pipeline.
 
 
-. Analytical Skills · Software Development · Technology Integration · SQL · Cloud Computing · Kubernetes · Docker · Helm Charts · Python (Programming Language) · Internet of Things (IoT) · Python · Amazon Web Services (AWS) · AWS IoT
+> Analytical Skills · Software Development · Technology Integration · SQL · Cloud Computing · Kubernetes · Docker · Helm Charts · Python (Programming Language) · Internet of Things (IoT) · Python · Amazon Web Services (AWS) · AWS IoT
 
 ## Senior Research And Development Engineer
 <img src="images/Distronix.png" style="float:center; width:130px; height:50px"/>
