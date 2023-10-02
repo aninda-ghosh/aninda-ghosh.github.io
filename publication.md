@@ -1,6 +1,6 @@
 # Publications
 
-[**Home**](index.md) | [**Projects**](projects.md) | [**Publications**](publication.md) | [**Work Experience**](experience.md) | [**About Me**](./index.md#about-me)
+[**Home**](index.md) | [**Resume**](/pdf/Aninda%20Ghosh-Resume-AI.pdf) | [**Work Experience**](experience.md) | [**Projects**](projects.md) | [**Publications**](publication.md)
 
 ## Book Chapters
 
