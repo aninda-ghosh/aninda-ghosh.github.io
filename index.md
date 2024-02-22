@@ -10,8 +10,8 @@ A pivotal crossroads beckoned, propelling me to transition to `L&T Technology So
 
 However, during my tenure at `Altor`, my passion truly ignited. Delving into the transformative realm of `Machine Learning`, I uncovered a world of possibilities within the realm of `Smart Helmet products`. This was more than just a career move; it was a realization of a purpose that resonated profoundly.
 
-Recognizing the need for relentless self-improvement, I embarked on a journey `back to academia`, driven to fortify my grasp of `Machine Learning concepts`. Standing at this juncture, I am poised to reenter the industry with renewed vigor. Armed with an evolved skill set that seamlessly integrates my `prowess in Embedded System Design with the intricate intricacies of Machine Learning Architectures`, I am poised to make a lasting impact again. The comprehensive experience I gained in `architecting complex Deep Learning Models` during my academic pursuits further solidifies my dedication to pushing the boundaries of technological advancement.
+Recognizing the need for relentless self-improvement, I embarked on a journey `back to academia`, driven to fortify my grasp of `Machine Learning concepts`. Standing at this juncture, I am poised to reenter the industry with renewed vigor. Armed with an evolved skill set that seamlessly integrates my `prowess in Embedded System Design with the intricacies of Machine Learning Architectures`, I am poised to make a lasting impact again. The comprehensive experience I gained in `architecting complex Deep Learning Models` during my academic pursuits further solidifies my dedication to pushing the boundaries of technological advancement.
 
 `#EmbeddedSystems #MachineLearning #DeepLearning #AI`
 
-[<span style="color: red;">**Download Resume Here !!**</span>](/pdf/Aninda%20Ghosh-Resume-AI.pdf)
+[<span style="color: red;">**Download Resume Here !!**</span>](/pdf/AnindaGhosh_Resume.pdf)
