@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aninda's World</title>
+
+    <!--
+    - favicon
+  -->
+    <link
+      rel="shortcut icon"
+      href="./assets/images/logo.ico"
+      type="image/x-icon"
+    />
+
+    <!--
+    - custom css link
+  -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+
+    <!--
+    - google font link
+  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/2.0.1/remarkable.min.js"></script>
+  </head>
+
+  <body>
+    <!--
+    - #MAIN
+  -->
+
+    <main>
+      <!--
+      - #SIDEBAR
+    -->
+
+      <aside class="sidebar" data-sidebar>
+        <div class="sidebar-info">
+          <figure class="avatar-box">
+            <img
+              src="./assets/images/avatar-2.png"
+              alt="Aninda Ghosh"
+              width="80"
+            />
+          </figure>
+
+          <div class="info-content">
+            <h1 class="name" title="Aninda Ghosh">Aninda Ghosh</h1>
+
+            <p class="title">Machine Learning Engineer</p>
+          </div>
+
+          <button class="info_more-btn" data-sidebar-btn>
+            <span>Show Contacts</span>
+
+            <ion-icon name="chevron-down"></ion-icon>
+          </button>
+        </div>
+
+        <div class="sidebar-info_more">
+          <div class="separator"></div>
+
+          <ul class="contacts-list">
+            <li class="contact-item">
+              <div class="icon-box">
+                <ion-icon name="mail-outline"></ion-icon>
+              </div>
+
+              <div class="contact-info">
+                <p class="contact-title">Email</p>
+
+                <a href="mailto:ghosh.private@gmail.com" class="contact-link"
+                  >ghosh.private@gmail.com</a
+                >
+              </div>
+            </li>
+
+            <li class="contact-item">
+              <div class="icon-box">
+                <ion-icon name="phone-portrait-outline"></ion-icon>
+              </div>
+
+              <div class="contact-info">
+                <p class="contact-title">Phone</p>
+
+                <a href="tel:+16232838611" class="contact-link"
+                  >+1 (623) 283-8611</a
+                >
+              </div>
+            </li>
+
+            <li class="contact-item">
+              <div class="icon-box">
+                <ion-icon name="calendar-outline"></ion-icon>
+              </div>
+
+              <div class="contact-info">
+                <p class="contact-title">Birthday</p>
+
+                <time datetime="1994-06-22">June 22, 1994</time>
+              </div>
+            </li>
+
+            <li class="contact-item">
+              <div class="icon-box">
+                <ion-icon name="location-outline"></ion-icon>
+              </div>
+
+              <div class="contact-info">
+                <p class="contact-title">Location</p>
+
+                <address>Tempe, Arizona, USA</address>
+              </div>
+            </li>
+          </ul>
+
+          <div class="separator"></div>
+
+          <!-- Social Media -->
+          <ul class="social-list">
+            <li class="social-item">
+              <a
+                href="www.linkedin.com/in/aninda-ghosh"
+                class="social-link"
+              >
+                <ion-icon name="logo-linkedin"></ion-icon>
+              </a>
+            </li>
+
+            <li class="social-item">
+              <a href="https://github.com/aninda-ghosh" class="social-link">
+                <ion-icon name="logo-github"></ion-icon>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </aside>
+
+      <!--
+      - #main-content
+    -->
+
+      <div class="main-content">
+        <!--
+        - #NAVBAR
+      -->
+
+        <nav class="navbar">
+          <ul class="navbar-list">
+            <li class="navbar-item">
+              <button class="navbar-link active" data-nav-link>About</button>
+            </li>
+
+            <li class="navbar-item">
+              <button class="navbar-link" data-nav-link>Resume</button>
+            </li>
+          </ul>
+        </nav>
+
+        <!-- #ABOUT -->
+
+        <article class="about active" data-page="about">
+          <header>
+            <h2 class="h2 article-title">About me</h2>
+          </header>
+
+          <section class="about-text">
+            <p>
+              Hello and welcome to my personal website! I'm an AI & Machine
+              Learning Specialist dedicated to driving impactful innovation at
+              the intersection of research and industry. With a focus on
+              extending the frontiers of technology, I've spearheaded
+              groundbreaking initiatives such as expanding datasets and defining
+              benchmarking metrics in Field Boundary Delineation. Backed by NASA
+              (Harvest) funding, my team and I are pushing the boundaries of
+              Deep Learning in satellite imagery, with a mission to tackle
+              real-world challenges head-on.
+            </p>
+
+            <p>
+              My journey spans dynamic roles in software engineering and
+              research & development, where I've led teams and pioneered
+              innovative solutions. From deploying cutting-edge Deep Learning
+              models for Smart Helmet safety to engineering low-latency
+              communication stacks for IoT devices, I bring a unique blend of
+              technical expertise and strategic leadership. Let's collaborate to
+              harness the power of AI and machine learning to drive
+              transformative change in your projects.
+            </p>
+          </section>
+
+          <!--
+          - service
+        -->
+
+          <section class="service">
+            <h3 class="h3 service-title">What i'm doing</h3>
+
+            <ul class="service-list">
+              <li class="service-item">
+                <div class="service-icon-box">
+                  <img
+                    src="./assets/images/icon-design.svg
+                "
+                    alt="design icon"
+                    width="40"
+                  />
+                </div>
+
+                <div class="service-content-box">
+                  <h4 class="h4 service-item-title">Machine Learning</h4>
+
+                  <p class="service-item-text">
+                    Designing and implementing machine learning systems.
+                  </p>
+                </div>
+              </li>
+
+              <li class="service-item">
+                <div class="service-icon-box">
+                  <img
+                    src="./assets/images/icon-dev.svg"
+                    alt="Web development icon"
+                    width="40"
+                  />
+                </div>
+
+                <div class="service-content-box">
+                  <h4 class="h4 service-item-title">Software Development</h4>
+
+                  <p class="service-item-text">
+                    Developing software solutions.
+                  </p>
+                </div>
+              </li>
+
+              <li class="service-item">
+                <div class="service-icon-box">
+                  <img
+                    src="./assets/images/icon-app.svg"
+                    alt="mobile app icon"
+                    width="40"
+                  />
+                </div>
+
+                <div class="service-content-box">
+                  <h4 class="h4 service-item-title">Edge ML Deployment</h4>
+
+                  <p class="service-item-text">
+                    Deploying machine learning models on edge devices.
+                  </p>
+                </div>
+              </li>
+
+              <li class="service-item">
+                <div class="service-icon-box">
+                  <img
+                    src="./assets/images/icon-photo.svg"
+                    alt="camera icon"
+                    width="40"
+                  />
+                </div>
+
+                <div class="service-content-box">
+                  <h4 class="h4 service-item-title">Photography</h4>
+
+                  <p class="service-item-text">
+                    Capturing moments and telling stories through the lens of a
+                    camera.
+                  </p>
+                </div>
+              </li>
+            </ul>
+          </section>
+        </article>
+
+        <!-- #RESUME -->
+
+        <!-- #RESUME -->
+      <article class="resume" data-page="resume">
+        <header>
+          <h2 class="h2 article-title">Resume</h2>
+        </header>
+        <section class="full-resume">
+          <p><a href="https://aiapply.co/r/663b47822287b" target="_blank" rel="noopener noreferrer" class="resume-link">PDF Version of Resume</a></p>
+        </section>
+        <section class="resume-content">
+          <!-- Markdown content will be loaded here -->
+        </section>
+      </article>
+        
+        
+
+
+
+    <!--
+    - custom js link
+  -->
+    <script src="./assets/js/script.js"></script>
+
+    <!--
+    - ionicon link
+  -->
+
+      <script>
+        // Function to fetch Markdown content and convert it to HTML
+        function loadMarkdown() {
+            fetch('resume.md') // Fetch the Markdown file
+                .then(response => response.text()) // Convert response to text
+                .then(markdown => {
+                    // Convert Markdown to HTML using Remarkable.js
+                    const remarkable = new Remarkable();
+                    const html = remarkable.render(markdown);
+
+                    // Set HTML content to the resume-content div
+                    document.querySelector('.resume-content').innerHTML = html;
+                })
+                .catch(error => console.error('Error fetching Markdown:', error));
+        }
+
+        // Call the function to load Markdown content
+        loadMarkdown();
+    </script>
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+  </body>
+</html>
