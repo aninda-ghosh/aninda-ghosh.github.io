@@ -159,7 +159,7 @@
             </li>
 
             <li class="navbar-item">
-              <button class="navbar-link" data-nav-link>Resume</button>
+              <a href="https://aiapply.co/r/663b47822287b" target="_blank" class="navbar-link">Resume</a>
             </li>
           </ul>
         </nav>
@@ -281,53 +281,7 @@
           </section>
         </article>
 
-        <!-- #RESUME -->
-
-        <!-- #RESUME -->
-      <article class="resume" data-page="resume">
-        <header>
-          <h2 class="h2 article-title">Resume</h2>
-        </header>
-        <section class="full-resume">
-          <p><a href="https://aiapply.co/r/663b47822287b" target="_blank" rel="noopener noreferrer" class="resume-link">PDF Version of Resume</a></p>
-        </section>
-        <section class="resume-content">
-          <!-- Markdown content will be loaded here -->
-        </section>
-      </article>
-        
-        
-
-
-
-    <!--
-    - custom js link
-  -->
     <script src="./assets/js/script.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/2.0.1/remarkable.min.js"></script>
-    <!--
-    - ionicon link
-  -->
-
-      <script>
-        // Function to fetch Markdown content and convert it to HTML
-        function loadMarkdown() {
-            fetch('resume.md') // Fetch the Markdown file
-                .then(response => response.text()) // Convert response to text
-                .then(markdown => {
-                    // Convert Markdown to HTML using Remarkable.js
-                    const remarkable = new Remarkable();
-                    const html = remarkable.render(markdown);
-
-                    // Set HTML content to the resume-content div
-                    document.querySelector('.resume-content').innerHTML = html;
-                })
-                .catch(error => console.error('Error fetching Markdown:', error));
-        }
-
-        // Call the function to load Markdown content
-        loadMarkdown();
-    </script>
     <script
       type="module"
       src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
